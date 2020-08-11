@@ -1,5 +1,5 @@
 # SwishCraft
-## SwishCraft Website Project
+SwishCraft Website Project
 
 ## A Minecraft World
 SwishCraft is a Minecraft World for Experienced Players.
